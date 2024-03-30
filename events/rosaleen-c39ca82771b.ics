@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rosaleen - ECPv6.2.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rosaleen
+X-ORIGINAL-URL:https://rosaleen.themerex.net
+X-WR-CALDESC:Events for Rosaleen
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20230101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20230601T080000
+DTEND;TZID=UTC:20240824T170000
+DTSTAMP:20240303T090311
+CREATED:20190808T124230Z
+LAST-MODIFIED:20210809T115117Z
+UID:313-1685606400-1724518800@rosaleen.themerex.net
+SUMMARY:Intensive Transformation Month
+DESCRIPTION:Nullam eget tincidunt dolor\, at accumsan odio. Morbi eget ligula gravida\, pulvinar magna eget\, eleifend mi. Proin massa tortor\, ornare sit amet commodo et\, eleifend vel odio. Integer porta orci ornare metus egestas\, a venenatis felis finibus. Maecenas a finibus nisl. \nLorem ipsum dolor sit amet\, sit at elit nostrum verterem\, quod tale propriae eu sit. Vel epicurei reformidans ea. Liber eirmod adversarium cu vix. Liber eirmod adversar.Ex erat deseruisse quaerendum pri\, mei laudem offendit eu. Qui ad dicunt salutandi. Omnis eruditi deserunt in ius. Vero everti ea vis\, odio diceret eu has\, sed ea idque volumus. Minim aliquid molestie eam eu\, vix ad sint liberavisse.\nEa duo alii lorem atomorum\, in nam dicam docendi\, vim et aperiam definiebas vim. \nNullam eget tincidunt dolor\, at accumsan odio. Morbi eget ligula gravida\, pulvinar magna eget\, eleifend mi. Proin massa tortor\, ornare sit amet commodo et\, eleifend vel odio. Integer porta orci ornare metus egestas\, a venenatis felis finibus. Maecenas a finibus nisl. \nLorem ipsum dolor sit amet\, sit at elit nostrum verterem\, quod tale propriae eu sit. Vel epicurei reformidans ea. Liber eirmod adversarium cu vix. Liber eirmod adversar.Ex erat deseruisse quaerendum pri\, mei laudem offendit eu. Qui ad dicunt salutandi. Omnis eruditi deserunt in ius. Vero everti ea vis\, odio diceret eu has\, sed ea idque volumus. Minim aliquid molestie eam eu\, vix ad sint liberavisse.\nEa duo alii lorem atomorum\, in nam dicam docendi\, vim et aperiam definiebas vim.
+URL:https://rosaleen.themerex.net/events/intensive-transformation-month/
+LOCATION:Highfields\, Charlottesville\, VA 123456 United States\, Charlottesville\, United States
+CATEGORIES:Sport
+ATTACH;FMTTYPE=image/jpeg:https://rosaleen.themerex.net/wp-content/uploads/2019/08/image-copyright-43.jpg
+ORGANIZER;CN="Rosaleen fitness team":MAILTO:yoursite@example.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231002
+DTEND;VALUE=DATE:20241103
+DTSTAMP:20240303T090311
+CREATED:20190808T123947Z
+LAST-MODIFIED:20210809T115056Z
+UID:311-1696204800-1730591999@rosaleen.themerex.net
+SUMMARY:Magic Marathon
+DESCRIPTION:Nullam eget tincidunt dolor\, at accumsan odio. Morbi eget ligula gravida\, pulvinar magna eget\, eleifend mi. Proin massa tortor\, ornare sit amet commodo et\, eleifend vel odio. Integer porta orci ornare metus egestas\, a venenatis felis finibus. Maecenas a finibus nisl. \nLorem ipsum dolor sit amet\, sit at elit nostrum verterem\, quod tale propriae eu sit. Vel epicurei reformidans ea. Liber eirmod adversarium cu vix. Liber eirmod adversar.Ex erat deseruisse quaerendum pri\, mei laudem offendit eu. Qui ad dicunt salutandi. Omnis eruditi deserunt in ius. Vero everti ea vis\, odio diceret eu has\, sed ea idque volumus. Minim aliquid molestie eam eu\, vix ad sint liberavisse.\nEa duo alii lorem atomorum\, in nam dicam docendi\, vim et aperiam definiebas vim. \nNullam eget tincidunt dolor\, at accumsan odio. Morbi eget ligula gravida\, pulvinar magna eget\, eleifend mi. Proin massa tortor\, ornare sit amet commodo et\, eleifend vel odio. Integer porta orci ornare metus egestas\, a venenatis felis finibus. Maecenas a finibus nisl. \nLorem ipsum dolor sit amet\, sit at elit nostrum verterem\, quod tale propriae eu sit. Vel epicurei reformidans ea. Liber eirmod adversarium cu vix. Liber eirmod adversar.Ex erat deseruisse quaerendum pri\, mei laudem offendit eu. Qui ad dicunt salutandi. Omnis eruditi deserunt in ius. Vero everti ea vis\, odio diceret eu has\, sed ea idque volumus. Minim aliquid molestie eam eu\, vix ad sint liberavisse.\nEa duo alii lorem atomorum\, in nam dicam docendi\, vim et aperiam definiebas vim.
+URL:https://rosaleen.themerex.net/events/magic-marathon/
+LOCATION:Highfields\, Charlottesville\, VA 123456 United States\, Charlottesville\, United States
+CATEGORIES:Sport
+ATTACH;FMTTYPE=image/jpeg:https://rosaleen.themerex.net/wp-content/uploads/2019/08/image-copyright-35.jpg
+ORGANIZER;CN="Rosaleen fitness team":MAILTO:yoursite@example.com
+END:VEVENT
+END:VCALENDAR
