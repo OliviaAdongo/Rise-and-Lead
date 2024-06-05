@@ -1,0 +1,65 @@
+<nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_slide_line hide_on_mobile"
+												data-animation-in="fadeIn" data-animation-out="fadeOut">
+												<ul id="menu_mobile" class="sc_layouts_menu_nav menu_mobile_nav">
+													<li id="menu-item-864"
+														class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent enu-item-has-children menu-item-864">
+														<a href="index.html"
+															style="color: #191919"><span>Home</span></a>
+
+													</li>
+													<li id="menu-item-864"
+														class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent enu-item-has-children menu-item-864">
+														<a href="/home-4/AboutRnl.html"
+															style="color: #191919"><span>About</span></a>
+
+													</li>
+
+													<li id="menu-item-879"
+														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879">
+														<a href="/home-4/OurServicesRnl.html"
+															style="color: #191919"><span>Our
+																Services</span></a>
+													</li>
+													<li id="menu-item-874"
+														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874">
+														<a href="/home-4/ContactsRnl.html"
+															style="color: #191919"><span>Contacts</span></a>
+													</li>
+												</ul>
+											</nav>
+
+
+
+
+
+
+
+
+											<nav class="newnav">
+												<div class="logo">
+												  <img src="/wp-content/uploads/IMG-20211015-WA0000-300x183.png" alt="logo" />
+												  <h1>RISE AND LEAD</h1>
+												</div>
+										  
+												<ul>
+												  <li><a href="index.html"></a>HOME</li>
+												  <li><a href="/home-4/AboutRnl.html"></a>ABOUT</li>
+												  <li><a href="/home-4/OurServicesRnl.html"></a> OUR SERVICES</li>
+												  <li><a href="/home-4/ContactsRnl.html"></a> CONTACT</li>
+												</ul>
+										  
+												<div class="hamburger">
+												  <span class="line"></span>
+												  <span class="line"></span>
+												  <span class="line"></span>
+												</div>
+											  </nav>
+										  
+											  <div class="menubar">
+												<ul>
+												  <li><a href="index.html"></a>HOME</li>
+												  <li><a href="/home-4/AboutRnl.html"></a>ABOUT</li>
+												  <li><a href="/home-4/OurServicesRnl.html"></a> OUR SERVICES</li>
+												  <li><a href="/home-4/ContactsRnl.html"></a> CONTACT</li>
+												</ul>
+										  
